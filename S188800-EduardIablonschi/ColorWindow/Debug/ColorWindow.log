@@ -1,0 +1,3 @@
+﻿  Main.cpp
+j:\groupprojectrepository\implementation-iablonschieduard\s188800-eduardiablonschi\colorwindow\main.cpp(191): warning C4244: 'initializing': conversion from 'Uint64' to 'GLfloat', possible loss of data
+  ColorWindow.vcxproj -> J:\GroupProjectRepository\implementation-IablonschiEduard\S188800-EduardIablonschi\Debug\ColorWindow.exe
